@@ -8,10 +8,10 @@
 3. Membandingkan nilai variable return a*b, a/b, a+b, a-b
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Flowchart1.png)
+![Flowchart](https://raw.githubusercontent.com/gilangbayuw/praktikum6/master/IMG-20181201-WA0003.jpg)
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Screenshot1.png)
+![Screenshoot](https://raw.githubusercontent.com/gilangbayuw/praktikum6/master/IMG-20181201-WA0002.jpg)
 
 **code program lengkap**
 '''c++
@@ -49,16 +49,16 @@ return a-b;
 
 
 **Flowchart Program**
-![Flowchart21](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Flowchart21.png)
+![Flowchart21](https://raw.githubusercontent.com/gilangbayuw/praktikum6/master/IMG-20181201-WA0006.jpg)
 
 **Flowchart Program**
-![Flowchart22](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Flowchart22.png)
+![Flowchart22](https://raw.githubusercontent.com/gilangbayuw/praktikum6/master/IMG-20181201-WA0007.jpg)
 
 **Screenshoot**
-![Screenshoot21](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Screenshoot21.png)
+![Screenshoot21](https://raw.githubusercontent.com/gilangbayuw/praktikum6/master/IMG-20181201-WA0005.jpg)
 
 **Screenshoot**
-![Screenshoot22](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Screnshoot22.png)
+![Screenshoot22](https://raw.githubusercontent.com/gilangbayuw/praktikum6/master/IMG-20181201-WA0004.jpg)
 
 **code program lengkap**
 '''c++
